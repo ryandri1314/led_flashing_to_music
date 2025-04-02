@@ -1,3 +1,2 @@
 # LED Flashing to Music
-## 1. Overall
-  - Control LED with 74hc595 IC and integrate sound sensor module KY-037 to create LED flashing effect with music
+In this project, I tried to make an LED strip and control it with 74hc595 IC. I wrote a small library for 74hc595 IC with some basic functions to set and flash the required number of LEDs. Then, I combined it with a sound sensor module to process the input data to make the LED strip flash automatically according to the volume of the environmental sound.
